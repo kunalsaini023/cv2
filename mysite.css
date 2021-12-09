@@ -1,0 +1,124 @@
+.top-container{
+    background-color: #97BFB4;
+   padding-top: 200px;
+  }
+
+  .middle-container{
+    background-color: #F5EEDC ;
+
+
+
+    }
+.bottom-container{
+    background-color: #DD4A48;
+
+
+
+}
+
+p{
+  margin:0;
+}
+body{
+  text-align:center;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  /*font-family: 'Sacramento', cursive;*/
+  background-color: #F5EEDC;
+
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  color: #064635;
+  line-height: 2
+}
+.taskbar{
+  position: fixed;
+  top:0;
+ visibility:visible;
+  height:50px;
+  background-color: #DE834D;
+  width:100%;
+}
+h2{
+  font-size: 2.5rem;
+color:#11999E;
+  font-weight: normal;
+}
+a{
+    color:#11999E;
+}
+h3{
+    color:#11999E;
+
+}
+.top-text{
+  margin: 0;
+  position:relative;
+  bottom:50px;
+
+}
+hr{
+  border-width: 0;
+  height:3px;
+  background-color: #DE834D;
+    width:70%;
+}
+.footer-link{
+  height:30px;
+  margin-top: 5px;
+}
+#cloud2{
+  position:absolute;
+  bottom:400px;
+  left:50px;
+}
+#cloud1{
+position: absolute;
+right:150px;
+top:70px;
+}
+.imag{
+  padding-top: 20px;
+  padding-left: 20px;
+  height:200px;
+}
+.imag1{
+  padding-top: 20px;
+  padding-left: 20px;
+  height:200px;
+  margin-right:20px;
+  float:left;
+    position: relative;
+  bottom:50px;
+}
+.imag2{
+  padding-top: 20px;
+  padding-left: 20px;
+  height:200px;
+  float:right;
+  position: relative;
+  bottom:60px;
+
+}
+
+
+.skill-row{
+  width:50%;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2;
+}
+#skill-row2{
+text-align:right;
+}
+#description1{
+  width:70%;
+  margin:auto;
+}
+a:hover{
+  background-color: black;
+}
